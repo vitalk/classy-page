@@ -1,0 +1,24 @@
+{
+  "name": "classy-page",
+  "version": "0.3.0",
+  "description": "Classy page-level styling",
+  "main": "page.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalk/classy-page.git"
+  },
+  "keywords": [
+    "css",
+    "oocss",
+    "page"
+  ],
+  "author": "Vital Kudzelka <vital.kudzelka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitalk/classy-page/issues"
+  },
+  "homepage": "https://github.com/vitalk/classy-page#readme"
+}
